@@ -4,9 +4,9 @@ description:
   Infinitely destroys items.
   [green]Now avalable in campaign due to the Extra Sand in the Sandbox Mod!
   '''
-health: 169
+health:32767
 alwaysUnlocked: false
 requirements: [
-  normalsand/42
+  normalsand/10
 ]
 research: vault
