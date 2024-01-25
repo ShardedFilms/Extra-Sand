@@ -4,7 +4,7 @@ description: "JESUS CHRIST THAT'S A LOT OF REVENANTS.\n[#FF0000]Place at your ow
 health: 300
 produceTime: 1
 maxSpawn: 120
-unitType: revenant
+unitType: reaper
 hasPower: false
 itemCapacity: 5
 consumes: {
