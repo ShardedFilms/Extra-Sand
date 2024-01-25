@@ -1,7 +1,7 @@
 type: MinerDrone
 name: Super Draug Miner
 description: "A Draug Miner supercharged with [#EFCA98]Sandy Coolant"
-health: 6969
+health: 9999
 drag: 0.01
 mass: 0.125
 speed: 1
