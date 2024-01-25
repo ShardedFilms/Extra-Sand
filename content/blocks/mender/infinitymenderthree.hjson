@@ -1,10 +1,11 @@
 type: MendProjector
 localizedName: Infinite Mender Power Three
-reload: 62.5
+reload: 1
 description: A Mender with infinite range. Quadruple the mending compared to the original.
-health: 700
+health: 70000
 range: 2000
 hasPower: false
+healPercent = 110
 consumes: {
   items: {
     items: [
