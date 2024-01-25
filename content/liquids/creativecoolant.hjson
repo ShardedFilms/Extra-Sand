@@ -6,7 +6,7 @@ explosiveness: 0
 flammability: 0
 temperature: -69
 viscosity: 0.96
-heatCapacity: 20
+heatCapacity: 99
 effect: {
   name: supercoolant
   damage: -25
