@@ -4,7 +4,7 @@ description: "JESUS CHRIST THAT'S A LOT OF DAGGERS.\n[#FF0000]Place at your own 
 health: 150
 produceTime: 1
 maxSpawn: 120
-unitType: dagger
+unitType: eradicator
 hasPower: false
 itemCapacity: 5
 consumes: {
